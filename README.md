@@ -1,5 +1,5 @@
 # Python_files
-## EDA on fertility dataset
+## [EDA on fertility dataset](https://github.com/prateeksirohi28/Python_files/blob/main/EDA%20on%20fetility%20dataset.ipynb)
 This dataset shows that patients fertilty diagnosis has altered or not on the basis of given parameter like age, disease, surgical intervtion, ferquency of alcohol consumption, smoking habit and number of sitting hours per day.
 
 ### Objectives
@@ -7,7 +7,7 @@ This dataset shows that patients fertilty diagnosis has altered or not on the ba
 * Diagnosis check on the basis of smoking habits.
 * How each parameter affects the diagnosis.
 
-## EDA on hotel bookings
+## [EDA on hotel bookings](https://github.com/prateeksirohi28/Python_files/blob/main/Eda%20on%20hotel_bookings.ipynb)
 This dataset in contains various parameter that effect hotel bookings and how booking varies with these parameters . It includes hotel types,lead time(time period between booking date and check-in date) ,arrival time, departure time ,type of meal , country, booking charges, deposit type and etc
 
 ### Objectives
@@ -15,7 +15,7 @@ This dataset in contains various parameter that effect hotel bookings and how bo
 * Does lead time affects cancellation.
 * How distribution channel works in providing bookings.
 
-## EDA on IPL dataset
+## [EDA on IPL dataset](https://github.com/prateeksirohi28/Python_files/blob/main/Eda%20on%20ipl_dataset.ipynb)
 This dataset in based on ipl matches.It contains data of players. If it is a batsmen how many matches he has played, strike rate, hundreds, fiftys, maximum runs scored in a match and total runs in Ipl season .For bowler thier economy rate, numbers of balls bowled , wickets taken , 4 wicket or 5 wickets haul.
 
 ### Objectives
@@ -24,7 +24,7 @@ This dataset in based on ipl matches.It contains data of players. If it is a bat
 * Bowlers with good economy rate.
 * Who has the highest strike rate.
 
-## EDA on Social meida aspects
+## [EDA on Social meida aspects](https://github.com/prateeksirohi28/Python_files/blob/main/Eda%20on%20social%20media%20aspects.ipynb)
 Social media dataset talks how social media usage affects the mental health. This dataset has parameters like age group, occupation, residing place, hours spend on socia media , does it affect their real life relationship, which social media platform is used and do they whatsapp for communication.
 
 ### Objectives
